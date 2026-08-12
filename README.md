@@ -1,7 +1,6 @@
 # Muhammad Ari Pratomo – Metadata Hub
 
-Central repository for Muhammad Ari Pratomo’s works and metadata — including books, music, podcasts, and legal publications.  
-This repository contains official metadata and links across law, literature, music, and podcasts, serving as a central hub to unify digital presence and support Google Knowledge Panel integration.
+The central repository for the works and metadata of Muhammad Ari Pratomo, also known as id MuhammadAriLaw — including books, music, podcasts, and legal publications. This repository contains official metadata and links in the fields of law, literature, music, and podcasts, serving as a hub to bring together his digital presence and support integration with Google Knowledge Panel or the Google Knowledge Graph for people ]([https://www.google.com/search?kgmid=/g/11s0h47rdw)
 
 ## Books
 - [Google Play Books Author Page](https://play.google.com/store/info/name/Muhammad_Ari_Pratomo?id=11s0h47rdw)
