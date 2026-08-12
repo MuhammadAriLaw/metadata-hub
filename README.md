@@ -4,7 +4,7 @@ Central repository for Muhammad Ari Pratomo’s works and metadata — including
 This repository contains official metadata and links across law, literature, music, and podcasts, serving as a central hub to unify digital presence and support Google Knowledge Panel integration.
 
 ## Books
-- [Google Play Books Author Page](https://play.google.com/store/info/name/MUHAMMAD_ARI_PRATOMO?id=11xh56txb7)
+- [Google Play Books Author Page](https://play.google.com/store/info/name/Muhammad_Ari_Pratomo?id=11s0h47rdw)
 - [Amazon Author Page](https://www.amazon.com/stores/author/B0FD89WH91?ccs_id=9a5419cf-ab84-449a-8cb0-652a7ce534ed)
 - [Apple Books Author Page](https://books.apple.com/us/author/muhammad-ari-pratomo/id1591596534)
 
