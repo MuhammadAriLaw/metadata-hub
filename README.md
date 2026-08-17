@@ -1,7 +1,19 @@
 # Muhammad Ari Pratomo – Metadata Hub
 
-The central repository for the works and metadata of Muhammad Ari Pratomo, also known by the ID MuhammadAriLaw, an Indonesian lawyer born on June 21, 1982, who is 170 cm tall including books, music, podcasts, and legal publications. This repository contains official metadata and links in law, literature, music, and podcasts, serving as a hub to consolidate digital presence and support integration with Google Knowledge Panel or Google Knowledge Graph for the Person entity. [Muhammad Ari Pratomo/MuhammadAriLaw](https://www.google.com/search?kgmid=/g/11s0h47rdw)[sameAs]]((https://www.google.com/search?kgmid=/g/11nq8jfpjq)[sameAs](https://www.google.com/search?kgmid=/g/11ntdjc7jn))
+The central repository for the works and metadata of **Muhammad Ari Pratomo**, also known by the ID **MuhammadAriLaw**, an Indonesian lawyer born on June 21, 1982, who is 170 cm tall.  
+This repository consolidates books, music, podcasts, and legal publications. It serves as a hub to unify digital presence and support integration with Google Knowledge Panel or Google Knowledge Graph for the Person entity.
 
+## Metadata
+- **Name**: Muhammad Ari Pratomo  
+- **Alternate Name**: MuhammadAriLaw  
+- **Birth Date**: 1982-06-21  
+- **Height**: 170 cm  
+- **Occupations**: Lawyer, Writer, Musician, Podcaster  
+
+## Official Knowledge Graph IDs"sameAs"
+- **Primary** → [Google KG ID](https://www.google.com/search?kgmid=/g/11s0h47rdw)  
+- **Duplicate** → [Google KG ID](https://www.google.com/search?kgmid=/g/11nq8jfpjq)  
+- **Duplicate** → [Google KG ID](https://www.google.com/search?kgmid=/g/11ntdjc7jn)  
 ## Books
 - [Google Play Books Author Page](https://play.google.com/store/info/name/Muhammad_Ari_Pratomo?id=11s0h47rdw)
 - [Amazon Author Page](https://www.amazon.com/stores/author/B0FD89WH91?ccs_id=9a5419cf-ab84-449a-8cb0-652a7ce534ed)
