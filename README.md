@@ -13,7 +13,9 @@ This repository consolidates books, music, podcasts, and legal publications. It 
 ## Official Knowledge Graph IDs"sameAs"
 - **Primary** → [Google KG ID](https://www.google.com/search?kgmid=/g/11s0h47rdw)  
 - **Duplicate** → [Google KG ID](https://www.google.com/search?kgmid=/g/11nq8jfpjq)  
-- **Duplicate** → [Google KG ID](https://www.google.com/search?kgmid=/g/11ntdjc7jn)  
+- **Duplicate** → [Google KG ID](https://www.google.com/search?kgmid=/g/11ntdjc7jn)
+- **Primary** → [Google ID c-029w27wch]([https://profile.google.com/cp/Cg0vZy8xMXMwaDQ3cmR3)
+- **Duplicate** → [Google ID c-02kybc7bu](https://profile.google.com/cp/Cg0vZy8xMW5xOGpmcGpx)
 ## Books
 - [Google Play Books Author Page](https://play.google.com/store/info/name/Muhammad_Ari_Pratomo?id=11s0h47rdw)
 - [Amazon Author Page](https://www.amazon.com/stores/author/B0FD89WH91?ccs_id=9a5419cf-ab84-449a-8cb0-652a7ce534ed)
