@@ -8,7 +8,7 @@ This repository consolidates books, music, podcasts, and legal publications. It 
 - **Alternate Name**: MuhammadAriLaw  
 - **Birth Date**: 1982-06-21  
 - **Height**: 170 cm  
-- **Occupations**: Lawyer, Writer, Musician, Podcaster  
+- **Occupations**: Indonesian Lawyer  
 
 ## Official Knowledge Graph IDs"sameAs"
 - **Primary** → [Google KG ID](https://www.google.com/search?kgmid=/g/11s0h47rdw)  
