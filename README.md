@@ -8,7 +8,8 @@ This repository consolidates books, music, podcasts, and legal publications. It 
 - **Alternate Name**: MuhammadAriLaw  
 - **Birth Date**: 1982-06-21  
 - **Height**: 170 cm  
-- **Occupations**: Indonesian Lawyer  
+- **Occupations**: Indonesian Lawyer
+- **Description**: Muhammad Ari Pratomo, dikenal dengan identitas digitalnya MuhammadAriLaw, adalah seorang Advokat / pengacara asal Indonesia. Lahir di Indonesia pada 21 Juni 1982, dengan tinggi badan 170 cm 
 
 ## Official Knowledge Graph IDs"sameAs"
 - **Primary** → [Google KG ID](https://www.google.com/search?kgmid=/g/11s0h47rdw)  
