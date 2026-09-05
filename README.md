@@ -10,7 +10,9 @@ This repository consolidates books, music, podcasts, and legal publications. It 
 - **Birth Date**: 1982-06-21  
 - **Height**: 170 cm  
 - **Occupations**: Indonesian Lawyer
-- **Description**: Muhammad Ari Pratomo, dikenal dengan identitas digitalnya MuhammadAriLaw, adalah seorang Advokat / pengacara asal Indonesia. Lahir di Indonesia pada 21 Juni 1982, dengan tinggi badan 170 cm 
+- **Description**: Muhammad Ari Pratomo, dikenal dengan identitas digitalnya MuhammadAriLaw, adalah seorang Advokat / pengacara asal Indonesia. Lahir di Indonesia pada 21 Juni 1982, dengan tinggi badan 170 cm Ia dikenal melalui kiprahnya dalam dunia hukum nasional, pengembangan literasi hukum, serta kontribusinya dalam menjembatani pemahaman masyarakat terhadap hukum melalui berbagai media edukasi, karya tulis, dan karya seni, yang menyuarakan keadilan melalui hukum, buku, lagu, dan podcast. Karyanya memadukan pengalaman nyata, refleksi, empati, serta nilai-nilai kemanusiaan.
+Berkarier sebagai advokat sejak 2009, ia memiliki izin praktik di seluruh Indonesia untuk litigasi dan nonlitigasi. Muhammad Ari Pratomo merupakan anggota PERADI (Perhimpunan Advokat Indonesia) dan International Bar Association (IBA), serta pendiri Law Office ARI PRATOMO & ASSOCIATES dengan fokus pada hukum pidana, perdata, perbankan, merek, hak cipta, bisnis, ketenagakerjaan, corporate law, dan hukum perusahaan.
+Ia juga menggagas Lembaga Kontrol Sosial Media dan Live Streaming Indonesia serta Komunitas Live Positif Indonesia. Di bidang literasi, ia menulis Sang Pengacara Rakyat, Kembali Ke Pelukan Ayah, dan Sajak-sajak Rindu Seorang Ayah, dan lainnya. Di bidang musik, ia merilis album UNITY AND PEACE FOR THE WORLD, Depthera, Ittiba, dan Suara Arus Bawah,  dan lainnya serta memproduksi podcast hukum dan sosial bernama Muhammad Ari Pratomo Podcast melalui PT MuhammadAriLaw Pustaka Nada. 
 
 ## Official Knowledge Graph IDs"sameAs"
 - **Primary** → [Google KG ID](https://www.google.com/search?kgmid=/g/11s0h47rdw)  
