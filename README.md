@@ -18,6 +18,13 @@ Ia juga menggagas Lembaga Kontrol Sosial Media dan Live Streaming Indonesia sert
 - **Primary** → [Google KG ID](https://www.google.com/search?kgmid=/g/11s0h47rdw)  
 - **Primary** → [Google ID c-029w27wch](https://profile.google.com/cp/Cg0vZy8xMXMwaDQ3cmR3)
 - **Primary** → [Google Play Book ](https://play.google.com/store/info/name/Muhammad_Ari_Pratomo?id=11s0h47rdw)
+
+- ## Foto Muhammad Ari Pratomo / MuhammadAriLaw Knowledge Graph IDs"sameAs"
+- **Foto Muhammad Ari Pratomo / MuhammadAriLaw** → (https://www.muhammadarilaw.com/wp-content/uploads/2026/06/cropped-Muhammad-Ari-Pratomo-Pengacara-Terbaik-Indonesia.jpg)
+- **Foto Muhammad Ari Pratomo / MuhammadAriLaw** → (https://www.muhammadarilaw.com/wp-content/uploads/2026/07/Muhammad-Ari-Pratomo-dokumen-kompasiana.jpg)
+- **Foto Muhammad Ari Pratomo / MuhammadAriLaw** → (https://www.muhammadarilaw.com/wp-content/uploads/2026/07/Muhammad-Ari-Pratomo-berada-di-LPSK.jpg)
+- **Foto Muhammad Ari Pratomo / MuhammadAriLaw** → (https://www.muhammadarilaw.com/wp-content/uploads/2026/07/foto-asli-Muhammad-Ari-Pratomo-1.jpg)
+- **Foto Muhammad Ari Pratomo / MuhammadAriLaw** → (https://www.muhammadarilaw.com/wp-content/uploads/2026/07/Foto-asli-Muhammad-Ari-Pratomo.jpg)
   
 ## Books
 - [Google Play Books Author Page](https://play.google.com/store/info/name/Muhammad_Ari_Pratomo?id=11s0h47rdw)
